@@ -6,7 +6,7 @@ A comprehensive Supply Chain Performance Dashboard built in Power BI, focusing o
 
 [Preview Dashboard](https://example.com](https://app.powerbi.com/view?r=eyJrIjoiMGQwOTgyYmUtMDQ1MS00OTU2LThhYjUtN2UxNWFjNTE3ZTRjIiwidCI6IjZlMzQ0NmViLTVhMTEtNGVjZC1hOTUxLTAzNzA4MjZlNjhhOSIsImMiOjF9))
 
-![Alt text](path/to/screenshot.png)
+![Dashboard]([ath/to/screenshot.png](https://github.com/FouadDev1/Dashboard/blob/main/Dashboard%20.png?raw=true)
 
 
 🚀 Key Focus Areas
